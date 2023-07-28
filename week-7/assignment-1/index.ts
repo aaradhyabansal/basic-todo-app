@@ -16,6 +16,6 @@ app.listen(port, () => {
 });
 
 mongoose.connect(
-  "mongodb+srv://aaradhyabansal21d:Zxcvbnm0@cluster0.k12wpfu.mongodb.net/",
+  "add the mongoDB connection string here",
   { dbName: "courses" }
 );
